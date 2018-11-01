@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="381c183c-2abc-4fe0-99e6-a25aedfc523c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy/MergeTwoSortedLists.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Medium/GenerateParentheses.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Medium/LongestSubstringWithoutRepeatingCharacters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy/ImplementStrStr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy/RemoveDuplicatesFromSortedArray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy/RemoveElement.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hard/MergeKSortedLists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Medium/RemoveNthNodeFromEndOfList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Medium/ValidSudoku.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCodeSolutions.iws" />
@@ -25,36 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="RomanToInteger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/RomanToInteger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3Sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Medium/3Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3SumClosest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Medium/3SumClosest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ValidParentheses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/ValidParentheses.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenerateParentheses.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GenerateParentheses.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Medium/GenerateParentheses.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="663">
@@ -95,11 +69,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Easy/TwoSum.py">
+      <file leaf-file-name="RemoveNthNodeFromEndOfList.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Medium/RemoveNthNodeFromEndOfList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="47" selection-end-column="21" />
+            <state relative-caret-position="476">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicatesFromSortedArray.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/RemoveDuplicatesFromSortedArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveElement.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/RemoveElement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImplementStrStr.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Easy/ImplementStrStr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeKSortedLists.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hard/MergeKSortedLists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidSudoku.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Medium/ValidSudoku.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -129,6 +153,12 @@
         <option value="$PROJECT_DIR$/Medium/LongestSubstringWithoutRepeatingCharacters.py" />
         <option value="$PROJECT_DIR$/Easy/MergeTwoSortedLists.py" />
         <option value="$PROJECT_DIR$/Medium/GenerateParentheses.py" />
+        <option value="$PROJECT_DIR$/Medium/RemvoeNthNodeFromEndOfList.py" />
+        <option value="$PROJECT_DIR$/Medium/RemoveDuplicatesFromSortedArray.py" />
+        <option value="$PROJECT_DIR$/Easy/RemoveElement.py" />
+        <option value="$PROJECT_DIR$/Easy/ImplementStrStr.py" />
+        <option value="$PROJECT_DIR$/Hard/MergeKSortedLists.py" />
+        <option value="$PROJECT_DIR$/Medium/ValidSudoku.py" />
       </list>
     </option>
   </component>
@@ -205,6 +235,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Hard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCodeSolutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCodeSolutions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Easy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -216,6 +260,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zak\Desktop\LeetCodeSolutions\LeetCodeSolutions\Easy" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -473,6 +522,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/RemoveNthNodeFromEndOfList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/RemoveDuplicatesFromSortedArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/RemoveElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/ImplementStrStr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hard/MergeKSortedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medium/ValidSudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
           <folding />
         </state>
       </provider>
