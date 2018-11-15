@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="381c183c-2abc-4fe0-99e6-a25aedfc523c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy/EmployeeImportance.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Hard/KthSmallestNumberInMultiplicationTable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Easy/MagicSquaresInGrid.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCodeSolutions.iws" />
@@ -24,16 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GenerateParentheses.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Medium/GenerateParentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RemoveNthNodeFromEndOfList.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Medium/RemoveNthNodeFromEndOfList.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -114,11 +103,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeImportance.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EmployeeImportance.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Easy/EmployeeImportance.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="875">
               <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MagicSquaresInGrid.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Easy/MagicSquaresInGrid.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,6 +156,7 @@
         <option value="$PROJECT_DIR$/Medium/ValidSquare.py" />
         <option value="$PROJECT_DIR$/Hard/KthSmallestNumberInMultiplicationTable.py" />
         <option value="$PROJECT_DIR$/Easy/EmployeeImportance.py" />
+        <option value="$PROJECT_DIR$/Easy/MagicSquaresInGrid.py" />
       </list>
     </option>
   </component>
@@ -741,6 +741,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="875">
           <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Easy/MagicSquaresInGrid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding />
         </state>
       </provider>
